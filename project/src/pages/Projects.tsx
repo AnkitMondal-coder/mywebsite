@@ -34,13 +34,13 @@ const Projects: React.FC = () => {
       date: 'Oct 2024'
     },
     {
-      title: 'Portfolio Website',
-      description: 'A modern, responsive portfolio website showcasing my skills and projects.',
-      image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
-      technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
-      githubUrl: 'https://github.com/ankitmondal/portfolio',
-      liveUrl: '#',
-      date: 'Sep 2024'
+      title: 'Smart Health AI',
+      description: 'The Smart Health Voice Assistant 🧑‍⚕️ is an AI-powered healthcare assistant that enables users to manage their health through voice commands.',
+      image: '/health.jpg',
+      technologies: ['Python', 'HTML5', 'CSS3'],
+      githubUrl: 'https://github.com/AnkitMondal-coder/Smart-Health-Ai',
+      liveUrl: 'https://ankitmondal-coder.github.io/Smart-Health-Ai/',
+      date: 'Jan 2025'
     }
   ];
 
