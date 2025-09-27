@@ -6,7 +6,7 @@ import { image } from 'framer-motion/client';
 const Projects: React.FC = () => {
   const projects = [
     {
-      title: 'tic-tac-toe',
+      title: 'Tic-tac-toe',
       description: 'This project is a modern implementation of the classic Tic-Tac-Toe game with an interactive and user-friendly interface. It offers both two-player mode and AI-powered single-player mode providing flexibility for users to enjoy the game alone or with friends.',
       image: '/t1.webp',
       technologies: ['React', 'TypeScript'],
