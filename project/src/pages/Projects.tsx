@@ -6,13 +6,13 @@ import { image } from 'framer-motion/client';
 const Projects: React.FC = () => {
   const projects = [
     {
-      title: 'E-Commerce Website',
-      description: 'A full-stack e-commerce platform with user authentication, product management, and payment integration.',
-      image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      githubUrl: 'https://github.com/ankitmondal/ecommerce-project',
-      liveUrl: '#',
-      date: 'Dec 2024'
+      title: 'tic-tac-toe',
+      description: 'This project is a modern implementation of the classic Tic-Tac-Toe game with an interactive and user-friendly interface. It offers both two-player mode and AI-powered single-player mode providing flexibility for users to enjoy the game alone or with friends.',
+      image: '/t1.webp',
+      technologies: ['React', 'TypeScript'],
+      githubUrl: 'https://github.com/AnkitMondal-coder/tic-tac-toe',
+      liveUrl: 'https://tic-tac-toe-ashy-xi-96.vercel.app/',
+      date: 'Oct 2025'
     },
     {
       title: 'HopeConnect',
@@ -34,13 +34,13 @@ const Projects: React.FC = () => {
       date: 'Oct 2024'
     },
     {
-      title: 'Smart Health AI',
-      description: 'The Smart Health Voice Assistant 🧑‍⚕️ is an AI-powered healthcare assistant that enables users to manage their health through voice commands.',
-      image: '/health.jpg',
-      technologies: ['Python', 'HTML5', 'CSS3'],
-      githubUrl: 'https://github.com/AnkitMondal-coder/Smart-Health-Ai',
-      liveUrl: 'https://ankitmondal-coder.github.io/Smart-Health-Ai/',
-      date: 'Jan 2025'
+      title: 'HealthMind AI',
+      description: 'The HealthMind 🧑‍⚕️ is an intelligent healthcare assistant that provides instant medical insights and personalized guidance. It allows users to book doctor appointments and connect via secure video calls for real-time consultations.',
+      image: '/h3.jpg',
+      technologies: ['TypeScript', 'React', 'Tailwind CSS'],
+      githubUrl: 'https://github.com/AnkitMondal-coder/healthmindai',
+      liveUrl: 'https://healthmindai.vercel.app/',
+      date: 'Sept 2025'
     }
   ];
 

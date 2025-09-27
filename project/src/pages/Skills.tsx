@@ -12,7 +12,7 @@ const Skills: React.FC = () => {
         { name: 'JavaScript', level: 80 },
         { name: 'React', level: 70 },
         { name: 'Tailwind CSS', level: 60 },
-        // { name: 'TypeScript', level: 65 }
+        { name: 'TypeScript', level: 70 }
       ]
     },
     {

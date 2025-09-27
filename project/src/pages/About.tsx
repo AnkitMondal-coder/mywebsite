@@ -31,7 +31,8 @@ const About: React.FC = () => {
             transition={{ delay: 0.4, duration: 0.6 }}
           >
             <img
-              src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600"
+              //src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600"
+              src="/c1.jpg"
               alt="About Ankit"
               className="w-full rounded-2xl shadow-2xl"
             />
