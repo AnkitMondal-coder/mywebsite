@@ -19,8 +19,8 @@ const Projects: React.FC = () => {
       description: 'The HealthMind 🧑‍⚕️ is an intelligent healthcare assistant that provides instant medical insights and personalized guidance. It allows users to book doctor appointments and connect via secure video calls for real-time consultations.',
       image: '/h3.jpg',
       technologies: ['TypeScript', 'React', 'Tailwind CSS'],
-      githubUrl: 'https://github.com/AnkitMondal-coder/healthmindai',
-      liveUrl: 'https://healthmindai.vercel.app/',
+      githubUrl: 'https://github.com/AnkitMondal-coder/newhealthmindai',
+      liveUrl: 'https://newhealthmindai.vercel.app/',
       date: 'Sept 2025'
     },
     {
