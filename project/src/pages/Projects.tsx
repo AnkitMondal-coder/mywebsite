@@ -14,6 +14,15 @@ const Projects: React.FC = () => {
       liveUrl: 'https://tic-tac-toe-ashy-xi-96.vercel.app/',
       date: 'Oct 2025'
     },
+     {
+      title: 'HealthMind AI',
+      description: 'The HealthMind 🧑‍⚕️ is an intelligent healthcare assistant that provides instant medical insights and personalized guidance. It allows users to book doctor appointments and connect via secure video calls for real-time consultations.',
+      image: '/h3.jpg',
+      technologies: ['TypeScript', 'React', 'Tailwind CSS'],
+      githubUrl: 'https://github.com/AnkitMondal-coder/healthmindai',
+      liveUrl: 'https://healthmindai.vercel.app/',
+      date: 'Sept 2025'
+    },
     {
       title: 'HopeConnect',
       description: 'A Collaborative Tech Platform to Combat Poverty, Hunger and Education Gaps.',
@@ -32,15 +41,6 @@ const Projects: React.FC = () => {
       githubUrl: 'https://github.com/AnkitMondal-coder/Website_WeatherApp',
       liveUrl: 'https://ankitmondal-coder.github.io/Website_WeatherApp/',
       date: 'Oct 2024'
-    },
-    {
-      title: 'HealthMind AI',
-      description: 'The HealthMind 🧑‍⚕️ is an intelligent healthcare assistant that provides instant medical insights and personalized guidance. It allows users to book doctor appointments and connect via secure video calls for real-time consultations.',
-      image: '/h3.jpg',
-      technologies: ['TypeScript', 'React', 'Tailwind CSS'],
-      githubUrl: 'https://github.com/AnkitMondal-coder/healthmindai',
-      liveUrl: 'https://healthmindai.vercel.app/',
-      date: 'Sept 2025'
     }
   ];
 
