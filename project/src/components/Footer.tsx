@@ -72,10 +72,10 @@ const Footer: React.FC = () => {
             <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2">
               <li><a href="/" className="text-gray-400 hover:text-white transition-colors duration-200">Home</a></li>
-              <li><a href="/about" className="text-gray-400 hover:text-white transition-colors duration-200">About Me</a></li>
-              <li><a href="/skills" className="text-gray-400 hover:text-white transition-colors duration-200">Skills</a></li>
-              <li><a href="/projects" className="text-gray-400 hover:text-white transition-colors duration-200">Projects</a></li>
-              <li><a href="/contact" className="text-gray-400 hover:text-white transition-colors duration-200">Contact</a></li>
+              <li><a href="/About" className="text-gray-400 hover:text-white transition-colors duration-200">About Me</a></li>
+              <li><a href="/Skills" className="text-gray-400 hover:text-white transition-colors duration-200">Skills</a></li>
+              <li><a href="/Projects" className="text-gray-400 hover:text-white transition-colors duration-200">Projects</a></li>
+              <li><a href="/Contact" className="text-gray-400 hover:text-white transition-colors duration-200">Contact</a></li>
             </ul>
           </div>
 
