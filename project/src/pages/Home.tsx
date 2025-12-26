@@ -22,7 +22,7 @@ const Home: React.FC = () => {
   const handleDownloadCV = () => {
     const link = document.createElement('a');
     link.href = resumeLink;
-    link.download = 'ANKIT_RESUME.pdf';
+    link.download = 'Ankit Resume New.pdf';
     link.click();
   };
 
