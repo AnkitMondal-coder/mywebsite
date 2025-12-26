@@ -110,7 +110,7 @@ const Home: React.FC = () => {
               {/* ✅ View Resume Button */}
 
               <a
-                href="/ANKIT MONDAL.pdf"
+                href="/ANKIT_MONDAL.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="border-2 border-green-600 text-green-600 px-8 py-3 rounded-lg font-semibold hover:bg-green-600 hover:text-white transition-all duration-300 flex items-center gap-2 group shadow-lg hover:shadow-xl"
