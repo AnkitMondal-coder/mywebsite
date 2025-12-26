@@ -16,13 +16,13 @@ import { Link } from 'react-router-dom';
 
 const Home: React.FC = () => {
   // Just change this link whenever you want to update your resume
-  const resumeLink = '/ANKIT_MONDAL.pdf';
+  const resumeLink = '/ANKIT MONDAL.pdf';
   // Place Ankit_Mondal_Resume.pdf inside the public/ folder of your React project
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
     link.href = resumeLink;
-    link.download = 'ANKIT_MONDAL.pdf';
+    link.download = 'ANKIT MONDAL.pdf';
     link.click();
   };
 
@@ -110,7 +110,7 @@ const Home: React.FC = () => {
               {/* ✅ View Resume Button */}
 
               <a
-                href="/ANKIT_MONDAL.pdf"
+                href="/ANKIT MONDAL.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="border-2 border-green-600 text-green-600 px-8 py-3 rounded-lg font-semibold hover:bg-green-600 hover:text-white transition-all duration-300 flex items-center gap-2 group shadow-lg hover:shadow-xl"
